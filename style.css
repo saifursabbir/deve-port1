@@ -1,0 +1,36 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+section{
+    display: flex;
+}
+h1{
+    font-size: 50px;
+}
+.sub-title{
+    color: rgb(255, 166, 0);
+    font-size: 30px;
+}
+.half-width{
+    width: 80%;
+    padding-left: 2%;
+};
+.half-width img{
+    width: 50%;
+}
+.link-button{
+    text-decoration: none;
+    color:aliceblue;
+    background-color: orangered;
+    padding: 10px 40px;
+    font-size: 700;
+    border-radius: 10px;
+};
+.top-b{
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat;
+};
+.dream-b{
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+}
